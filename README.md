@@ -2,7 +2,7 @@
 
 <div>
 <img align="right" width="400" src="https://cdn.discordapp.com/attachments/1082383095078076509/1131355574613856326/4031abad70acc46069766c4c7a228bef.gif">
- ![profileViews](https://en3zcgi7b3erui3.m.pipedream.net/?username=Syorl)
+(https://en3zcgi7b3erui3.m.pipedream.net/?username=Syorl)
   
 ##
   
