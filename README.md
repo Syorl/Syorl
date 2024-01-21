@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Garoto de Programa" alt="Typing SVG" /></a>
 
 <div>
-<img align="right" width="400" src="https://cdn.discordapp.com/attachments/1082383095078076509/1131355574613856326/4031abad70acc46069766c4c7a228bef.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif">
 <img src="https://en3zcgi7b3erui3.m.pipedream.net/?username=Syorl"  align="left" />
   
 ##
