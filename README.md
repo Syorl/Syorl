@@ -13,7 +13,7 @@
 <div>
   <h2> Linguagens e Ferramentas:</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,nodejs,mysql,html,css" />
+    <img src="https://skillicons.dev/icons?i=JS,Python,html,css,Java" />
   </a>
 </div>
 <div> 
