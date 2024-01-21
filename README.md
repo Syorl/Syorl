@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computeiro" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Garoto de Programa" alt="Typing SVG" /></a>
 
 <div>
 <img align="right" width="400" src="https://cdn.discordapp.com/attachments/1082383095078076509/1131355574613856326/4031abad70acc46069766c4c7a228bef.gif">
@@ -6,12 +6,12 @@
   
 ##
   
-<p align="left"> I'm studying machine learning </p>
-<p align="left"> Back-end developer</p>
-<p align="left"> Computer Science student in Universidade Tecnológica Federal do Paraná - Campo Mourão</p>
+<p align="left"> Eu estou estudando JS, python, html</p>
+<p align="left"> Futuro Full-stack</p>
+<p align="left"> Estudante de Sistema de informação na UNIFACS - SSA, Campus Tancredo Neves</p>
 </div>
 <div>
-  <h2> Languages and Tools:</h2>
+  <h2> Linguagens e Ferramentas:</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,nodejs,mysql,html,css" />
   </a>
