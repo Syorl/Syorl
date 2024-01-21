@@ -17,12 +17,12 @@
   </a>
 </div>
 <div> 
-<h2 align="left" id="macropower-tech">My Git Stats</h2> 
+<h2 align="left" id="macropower-tech">Meus status do github</h2> 
   
 <div style="space-arround: 5px">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpAndrade23&show_icons=true&theme=tokyonight" style="margin-right: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpAndrade23&theme=tokyonight" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpAndrade23&theme=tokyonight" alt="jpAndrade23" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syorl&show_icons=true&theme=omni" style="margin-right: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syorl&theme=omni" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Syorl&theme=omni" alt="Syorl" />
 </div>
 
 </div> 
