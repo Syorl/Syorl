@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Color=#ed8d07+Code&pause=1000&width=435&lines=Garoto de Programa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Color=Orange+Code&pause=1000&width=435&lines=Garoto de Programa" alt="Typing SVG" /></a>
 
 <div>
 <img align="right" width="400" src="https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif">
