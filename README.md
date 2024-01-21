@@ -21,7 +21,6 @@
   
 <div style="space-arround: 2.5px">
   <img src="https://github-readme-stats.vercel.app/api?username=Syorl&show_icons=true&theme=omni" style="margin-right: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syorl&theme=omni" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Syorl&theme=omni" alt="Syorl" />
 </div>
 
