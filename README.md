@@ -9,7 +9,7 @@
   
 <p align="left"> Eu estou estudando JS, Python, Html5, CSS3, Java</p>
 <p align="left"> Futuro Full-stack</p>
-<p align="left"> Estudante de Sistema de informação na UNIFACS - SSA, Campus Tancredo Neves</p>
+<p align="left"> Estudante de Sistema de informação na UNIFACS</p>
 </div>
 <div>
   <h2> Linguagens e Ferramentas:</h2>
