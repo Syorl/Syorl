@@ -21,8 +21,7 @@
 <h2 align="left" id="macropower-tech">Meus status do github</h2> 
   
 <div style="space-arround: 2.5px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syorl&show_icons=true&theme=omni" style="margin-right: 5px;" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Syorl&theme=omni" alt="Syorl" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syorl&theme=whatsapp-dark2&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 </div> 
