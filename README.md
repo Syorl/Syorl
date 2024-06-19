@@ -2,7 +2,7 @@
 
 <div>
 <!-- para colocar o gif de anime -->
-<img align="right" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/36/fb/33/36fb3346f60b3ef18544e47cacb0baf5.gif">
 <img src="https://en3zcgi7b3erui3.m.pipedream.net/?username=Syorl"  align="left" />
   
 ##
