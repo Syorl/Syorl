@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=435&lines=Garoto de Programa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=435&lines=Futuro Gestor de TI" alt="Typing SVG" /></a>
 
 <div>
 <!-- para colocar o gif de anime -->
-<img align="right" width="400" src="https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 <img src="https://en3zcgi7b3erui3.m.pipedream.net/?username=Syorl"  align="left" />
   
 ##
