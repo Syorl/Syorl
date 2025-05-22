@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+color=Orange+Code&pause=1000&width=435&lines=Futuro Gestor de TI" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg">
 <div>
 <!-- para colocar o gif de anime -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
